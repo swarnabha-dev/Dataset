@@ -1,0 +1,5 @@
+train: /kaggle/input/dataset/images/train
+val: /kaggle/input/dataset/images/val
+
+nc: 14  # number of classes
+names: ['car', 'bike', 'auto', 'rickshaw', 'cycle', 'bus', 'minitruck', 'truck', 'van', 'taxi', 'motorvan', 'toto', 'train', 'boat']
